@@ -3,15 +3,15 @@
 This repository contains the code for an **agent** that can play **Super Mario Bros Game** using **Double Deep Q Learning Algorithm**. 
 
 <p align="center">
- <img src="videos/1.gif" width="300">
- <img src="videos/2.gif" width="300">
- <img src="videos/3.gif" width="300"><br/>
- <img src="videos/4.gif" width="300">
- <img src="videos/5.gif" width="300">
- <img src="videos/6.gif" width="300"><br/>
- <img src="videos/7.gif" width="300">
- <img src="videos/8.gif" width="300">
- <img src="videos/9.gif" width="300"><br/>
+ <img src="videos/1.gif" width="250">
+ <img src="videos/2.gif" width="250">
+ <img src="videos/3.gif" width="250"><br/>
+ <img src="videos/4.gif" width="250">
+ <img src="videos/5.gif" width="250">
+ <img src="videos/6.gif" width="250"><br/>
+ <img src="videos/7.gif" width="250">
+ <img src="videos/8.gif" width="250">
+ <img src="videos/9.gif" width="250"><br/>
 <i><b>Result</b></i>
 </p>
 
